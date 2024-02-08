@@ -1,6 +1,6 @@
 [class*='container'] 
     .debug{
-    background-color: aqua;
+    /*background-color: aqua;*/
     border: 1px dashed black;
 }
             
@@ -30,4 +30,8 @@ ul li a{
 #start-bootstrap{
     background-color: #19bc9b;
     height: 580px;
+}
+
+#about{
+    background-color: #19bc9b;
 }

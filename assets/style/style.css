@@ -1,7 +1,7 @@
 [class*='container'] 
     .debug{
     /*background-color: aqua;*/
-    border: 1px dashed black;
+    border: 2px dashed red;
 }
             
 /*$grid-breakpoints: (
@@ -34,4 +34,14 @@ ul li a{
 
 #about{
     background-color: #19bc9b;
+}
+
+footer{
+    height: 340px;
+    background: linear-gradient(
+    to bottom,
+    #375169 0%,
+    #375169 65%,
+    #2b3c4e 65%,
+    #2b3c4e 100%);
 }

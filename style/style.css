@@ -12,3 +12,17 @@
     xl: 1200px,
     xxl: 1400px
 ) */
+
+header{
+    height: 90px;
+    background-color: #2b3e50;
+}
+
+ul li{
+    list-style: none;
+}
+
+ul li a{
+    color: white;
+    text-decoration: none;
+}

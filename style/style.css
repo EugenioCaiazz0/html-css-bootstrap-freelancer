@@ -26,3 +26,8 @@ ul li a{
     color: white;
     text-decoration: none;
 }
+
+#start-bootstrap{
+    background-color: #19bc9b;
+    height: 580px;
+}

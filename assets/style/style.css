@@ -32,6 +32,10 @@ ul li a{
     height: 580px;
 }
 
+#portfolio img{
+    margin-bottom: 25px;
+}
+
 #about{
     background-color: #19bc9b;
 }
@@ -45,3 +49,8 @@ footer{
     #2b3c4e 65%,
     #2b3c4e 100%);
 }
+
+/*
+footer p{
+    line-height: 
+} */

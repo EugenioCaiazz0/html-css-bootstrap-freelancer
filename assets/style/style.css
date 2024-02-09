@@ -84,6 +84,18 @@ footer li a{
     object-fit: contain;
 }
 
+.container-60{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.slim-form input,
+.slim-form textarea{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
 /*
 footer p{
     line-height: 
